@@ -22,3 +22,7 @@ This codebase is strongly base on [Full Stack Deep Learning Course](https://cour
 **`evaluation`**: **Run the validation tests** 
 
 **`experiment_manager`**: **Settings of your experiment manager (**p.e. wandb, tensorboard**)**
+
+
+
+You can also check this [ML Project Template](https://bit.ly/33zMFqw) 
