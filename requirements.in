@@ -1,0 +1,12 @@
+boltons
+editdistance
+flask
+h5py
+numpy
+pandas
+opencv-python-headless
+requests
+tensorflow
+pytorch
+toml
+tqdm
