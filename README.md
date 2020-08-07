@@ -1,5 +1,5 @@
 # ML Production Template
-This is codebase template is as a starting point for every Machine Learning project that you intended to deploy into Production.
+This codebase is a starting point to get your Machine Learning project into Production.  
 
 This codebase is base on [Full Stack Deep Learning Course](https://course.fullstackdeeplearning.com/).
 
@@ -26,8 +26,8 @@ This codebase is base on [Full Stack Deep Learning Course](https://course.fullst
 
 **`experiment_manager`**: **Settings of your experiment manager (**p.e. wandb, tensorboard**)**
 
-**`data`**: **use it for data versioning, storing data examples and metadata of your datasets. During traing use it to store your raw and processed data but don't push or save the datasets into the repo.** 
+**`data`**: **use it for data versioning, storing data examples and metadata of your datasets. During training use it to store your raw and processed data but don't push or save the datasets into the repo.** 
 
 ## Note
 
-This [ML Project Template](https://bit.ly/33zMFqw) can help you managing your project
+This [ML Project Template](https://bit.ly/33zMFqw) might help you managing your project
