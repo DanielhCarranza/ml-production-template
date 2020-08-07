@@ -1,5 +1,5 @@
 # ML Production Template
-This codebase is a starting point to get your Machine Learning project into Production.  
+This codebase is a starting point to get your Machine Learning project into Production.    
 
 This codebase is base on [Full Stack Deep Learning Course](https://course.fullstackdeeplearning.com/).
 
@@ -29,5 +29,7 @@ This codebase is base on [Full Stack Deep Learning Course](https://course.fullst
 **`data`**: **use it for data versioning, storing data examples and metadata of your datasets. During training use it to store your raw and processed data but don't push or save the datasets into the repo.** 
 
 ## Note
+I Recommend you to use it as a github template. Fork the repo, go to settings and the make it a template. 
 
-This [ML Project Template](https://bit.ly/33zMFqw) might help you managing your project
+This [ML Project Template](https://bit.ly/33zMFqw) might help you managing your project.
+
