@@ -42,6 +42,11 @@ pip-compile requirements.in && pip-compile requirements-dev.in
 
 Now, every time you work in this directory, make sure to start your session with `conda activate your_project_name`.
 
+### Run with Makefile
 
+```sh
+cd your_project_folder
+make run
+```
 # Start Coding!
 
